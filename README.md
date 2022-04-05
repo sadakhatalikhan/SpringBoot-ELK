@@ -26,7 +26,7 @@
 <h3>ELK Stack Architecture</h3>
 <p>Logstash processes the application log files based on the filter criteria we set and sends those logs to Elasticsearch. Through Kibana, we view and analyze those logs when required.</p>
 
-ELK_image.jpg
+![This is an image](https://github.com/sadakhatalikhan/SpringBoot-ELK/employee-profile-rest-service/images/ELK_Image.jpg)
 
 <p> However, one more component is needed or Data collection called Beats. This led Elastic to rename ELK as the Elastic Stack. </p>
 
